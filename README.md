@@ -11,3 +11,5 @@
 Если найдёте какие-то ошибки, можете сообщить о них мне в дискорд:narik_20
 
 Для перевода модов использовал [RTF Extension](https://modrinth.com/resourcepack/rtf-extension)
+
+Для перевода гайдбука по AE2 использовал [ae2guide-ru](https://github.com/DygDyg/ae2guide-ru)
